@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1192533283 source:/home/bernard/C++ Projects/glfwHello/main.cpp
+	"stdafx.h"
+	"timer.h"
+	"renwin.h"
+	"RenderModes.h"
+	"texture.h"
+	"pool.h"
+	"pngloader.h"
+	"text.h"
+	"vbo.h"
+
+1184882149 /home/bernard/C++ Projects/glfwHello/stdafx.h
+	<cml/cml.h>
+	<GL/glfw.h>
+	<GL/glext.h>
+	<zlib.h>
+	<ft2build.h>
+	<freetype/freetype.h>
+	<freetype/ftglyph.h>
+	<freetype/ftoutln.h>
+	<freetype/fttrigon.h>
+	<stdio.h>
+	<iostream>
+	<iostream>
+	<algorithm>
+	<sstream>
+	<fstream>
+	<string>
+	<vector>
+	<iterator>
+	<exception>
+	<boost/thread.hpp>
+	<boost/iostreams/stream.hpp>
+	<boost/iostreams/categories.hpp>
+	<boost/filesystem/operations.hpp>
+	<boost/utility.hpp>
+	<boost/smart_ptr.hpp>
+	<boost/foreach.hpp>
+	<boost/range.hpp>
+	<boost/functional/hash.hpp>
+	<png.h>
+	<tr1/unordered_map>
+	"log.h"
+	"iolib.h"
+	"myMath.h"
+	"algs.h"
+	"exceptions.h"
+
+1110855172 /home/bernard/Development_Tools/Libs/glfw-2.5/include/GL/glfw.h
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1184162699 /home/bernard/C++ Projects/glfwHello/myMath.h
+
+1184512485 /home/bernard/C++ Projects/glfwHello/iolib.h
+
+1184253998 /home/bernard/C++ Projects/glfwHello/log.h
+
+1184622595 /home/bernard/C++ Projects/glfwHello/timer.h
+
+1184265912 /home/bernard/C++ Projects/glfwHello/renwin.h
+
+1184190079 /home/bernard/C++ Projects/glfwHello/exceptions.h
+	"log.h"
+
+1182554162 source:/home/bernard/C++ Projects/glfwHello/stdafx.cpp
+	"stdafx.h"
+
+1184461274 source:/home/bernard/C++ Projects/glfwHello/rewnwin.cpp
+	"stdafx.h"
+	"renwin.h"
+	<string>
+
+1184461274 source:/home/bernard/C++ Projects/glfwHello/log.cpp
+	"stdafx.h"
+	"log.h"
+
+1184883642 /home/bernard/C++ Projects/glfwHello/algs.h
+
+1184620171 source:/home/bernard/C++ Projects/glfwHello/PakFile.cpp
+	"stdafx.h"
+	"PakFile.h"
+
+1184523373 /home/bernard/C++ Projects/glfwHello/PakFile.h
+
+1185064918 source:/home/bernard/C++ Projects/glfwHello/RenderModes.cpp
+	"stdafx.h"
+	"RenderModes.h"
+
+1185064768 /home/bernard/C++ Projects/glfwHello/RenderModes.h
+	"renwin.h"
+	"primatives2d.h"
+
+1184512810 source:/home/bernard/C++ Projects/glfwHello/bitmap.cpp
+	"stdafx.h"
+	"bitmap.h"
+
+1184462818 /home/bernard/C++ Projects/glfwHello/bitmap.h
+
+1184461274 source:/home/bernard/C++ Projects/glfwHello/convertFilter.cpp
+	"stdafx.h"
+	"convertFilter.h"
+	"px.h"
+
+1181496125 /home/bernard/C++ Projects/glfwHello/convertFilter.h
+	"bitmap.h"
+
+1183073845 /home/bernard/C++ Projects/glfwHello/px.h
+	"bitmap.h"
+
+1184461274 source:/home/bernard/C++ Projects/glfwHello/fileio.cpp
+	"stdafx.h"
+	"fileio.h"
+
+1179341873 /home/bernard/C++ Projects/glfwHello/fileio.h
+
+1184461274 source:/home/bernard/C++ Projects/glfwHello/filters.cpp
+	"stdafx.h"
+	"filters.h"
+	"px.h"
+
+1184462818 /home/bernard/C++ Projects/glfwHello/filters.h
+	"bitmap.h"
+
+1185067308 source:/home/bernard/C++ Projects/glfwHello/gui.cpp
+	"stdafx.h"
+	"gui.h"
+
+1185069149 /home/bernard/C++ Projects/glfwHello/gui.h
+	"primatives2d.h"
+
+1185068789 /home/bernard/C++ Projects/glfwHello/primatives2d.h
+	"texture.h"
+	"primatives.h"
+	"vbo.h"
+
+1185065991 /home/bernard/C++ Projects/glfwHello/texture.h
+	"bitmap.h"
+
+1184513108 source:/home/bernard/C++ Projects/glfwHello/pngloader.cpp
+	"stdafx.h"
+	"pngloader.h"
+
+1184620282 /home/bernard/C++ Projects/glfwHello/pngloader.h
+	"bitmap.h"
+
+1185066605 source:/home/bernard/C++ Projects/glfwHello/primatives2d.cpp
+	"stdafx.h"
+	"primatives2d.h"
+
+1185052507 source:/home/bernard/C++ Projects/glfwHello/text.cpp
+	"stdafx.h"
+	"text.h"
+	"filters.h"
+	"px.h"
+
+1185051443 /home/bernard/C++ Projects/glfwHello/text.h
+	"texture.h"
+	"renwin.h"
+	"primatives2d.h"
+
+1185065990 source:/home/bernard/C++ Projects/glfwHello/texture.cpp
+	"stdafx.h"
+	"bitmap.h"
+	"texture.h"
+	"filters.h"
+
+1184524353 /home/bernard/C++ Projects/glfwHello/pool.h
+
+1185036954 /home/bernard/C++ Projects/glfwHello/primatives.h
+
+1185065991 /home/bernard/C++ Projects/glfwHello/vbo.h
+	"primatives.h"
+
+1185031555 source:/home/bernard/C++ Projects/glfwHello/vbo.cpp
+	"stdafx.h"
+	"vbo.h"
+
