@@ -11,4 +11,4 @@
 **Technologies**
 : C++, OpenGL
 
-This was my attempt to create a cross platform 3D graphics engine. A few graphics primatives were created, text mapped fonts, PNG loading, and some OOP encapsulation of OpenGL calls was accomplished. This project was never finished.
+This project was started to create a cross platform 3D graphics engine. I managed to build a library of graphics primatives, implement texture mapped fonts, PNG loading, and encapsulate some of the OpenGL calls in RAII objects. This project remains incomplete.
